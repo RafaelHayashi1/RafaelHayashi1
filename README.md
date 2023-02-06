@@ -2,7 +2,7 @@
 
 - 🌱 Estou aprofundando o conhecimento em JavaScript e Php
 
-<img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">: rafaelhayashi123
+<img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">: rafaelhayashi123@gmail.com
 
 <img align="center" alt="Email" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">: rafao#0818
 
